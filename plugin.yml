@@ -1,0 +1,6 @@
+name: ShortUtils
+description: Short utility functions that I use a lot in my plugins.
+author: Raus
+main: com.raus.shortUtils.Main
+version: 1.0
+api-version: 1.15
